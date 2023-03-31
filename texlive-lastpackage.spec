@@ -1,6 +1,6 @@
 Name:		texlive-lastpackage
 Version:	34481
-Release:	1
+Release:	2
 Summary:	Indicates the last loaded package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lastpackage
