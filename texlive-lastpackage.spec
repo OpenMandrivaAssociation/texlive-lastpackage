@@ -3,7 +3,7 @@ Version:	34481
 Release:	2
 Summary:	Indicates the last loaded package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lastpackage
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lastpackage
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lastpackage.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lastpackage.doc.r%{version}.tar.xz
